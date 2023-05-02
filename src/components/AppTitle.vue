@@ -17,6 +17,6 @@
 
 <style scoped>
   h1{
-    color: red
+    color: rgb(255, 162, 0)
   }
 </style>
